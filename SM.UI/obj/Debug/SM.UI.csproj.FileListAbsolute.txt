@@ -1,0 +1,78 @@
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.exe.config
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.exe
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.csprojResolveAssemblyReference.cache
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form1.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form2.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form3.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form4.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form5.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form6.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form7.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Properties.Resources.resources
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.csproj.GenerateResource.Cache
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.exe
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.Entity.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.DataLayer.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.Entity.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.LogicLayer.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.DataLayer.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.xml
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ktanz\Desktop\C# project\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.exe.config
+C:\Users\ktanz\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.exe
+C:\Users\ktanz\Desktop\C# project\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.exe.config
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.exe
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.Entity.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.LogicLayer.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.DataLayer.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.Entity.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.LogicLayer.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.DataLayer.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.xml
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.csprojResolveAssemblyReference.cache
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form1.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form2.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form3.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form4.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form5.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form6.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form7.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Properties.Resources.resources
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.csproj.GenerateResource.Cache
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.exe
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.csprojResolveAssemblyReference.cache
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form1.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form2.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form3.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form4.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form5.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form6.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Form7.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.Properties.Resources.resources
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.csproj.GenerateResource.Cache
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.exe.config
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.exe
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.UI.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.Entity.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.DataLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.Entity.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.LogicLayer.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\SM.DataLayer.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.xml
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.exe
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.UI\obj\Debug\SM.UI.pdb
