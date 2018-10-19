@@ -1,0 +1,13 @@
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\SM.LogicLayer.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\SM.DataLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\SM.Entity.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\EntityFramework.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\SM.DataLayer.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\SM.Entity.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\EntityFramework.xml
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Release\SM.LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Release\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Release\SM.LogicLayer.pdb

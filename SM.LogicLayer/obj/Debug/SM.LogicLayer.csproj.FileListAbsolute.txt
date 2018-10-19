@@ -1,0 +1,39 @@
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.LogicLayer.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.DataLayer.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.Entity.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.DataLayer.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.Entity.pdb
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\tanzida\Desktop\C# project\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.LogicLayer.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.LogicLayer.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.DataLayer.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.Entity.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.DataLayer.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.Entity.pdb
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.dll
+C:\Users\ktanz\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.LogicLayer.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.DataLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.Entity.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.DataLayer.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\SM.Entity.pdb
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.dll
+C:\Users\tanzida\Desktop\Training_Intern\C#project Staff Management\StaffManagementSystem\SM.LogicLayer\obj\Debug\SM.LogicLayer.pdb
